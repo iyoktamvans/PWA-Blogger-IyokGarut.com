@@ -1,0 +1,23 @@
+{
+    "name": "IyokGarut.com",
+    "short_name": "IyokGarut",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgDJ62fYYxFH10X-Sxy-dshAlYHdWIfvqM757Tf2ZcbByarAdN6Ol4z6Zjn2GjeQrvHpDIF-w3EPECanpbynDA0JWW0RNzFSCHAY_SUDli_k-_TEGwhdiiXwiVZlz9UpAxDT0RzWonzYJYwZtFKGJwGMzge3mbtVJyKllDLgZfxwtd1z-NC-ZKlmpzF8w=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEirbPOwKwD89bU8WLaAqOByO-lsuGTcZjazwIUznjcrqtL_gFGwB_6c9mB9R3bB5nKNvNuDhyYhvus0XL7VhWX9FeCooQs6ZhkD25fF05HY8N0Qx9VatNUqWcaoyPq-ggVsiKqcRgoFzOjxInK58axLt489XzSUSvBI8SUm4Y7u94Hf0jqDLHGUc6uong=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.iyokgarut.com"
+}
